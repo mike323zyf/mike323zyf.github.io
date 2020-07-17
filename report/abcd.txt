@@ -1,0 +1,9 @@
+@article{Naitsat:2020:ABCD,
+author = {Naitsat, Alexander and Zhu, Yufeng and Zeevi, Yehoshua Y.},
+title = {Adaptive Block Coordinate Descent for Distortion Optimization},
+journal = {Computer Graphics Forum},
+volume = {n/a},
+number = {n/a},
+pages = {}
+}
+
