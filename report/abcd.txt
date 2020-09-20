@@ -2,8 +2,9 @@
 author = {Naitsat, Alexander and Zhu, Yufeng and Zeevi, Yehoshua Y.},
 title = {Adaptive Block Coordinate Descent for Distortion Optimization},
 journal = {Computer Graphics Forum},
-volume = {n/a},
-number = {n/a},
-pages = {}
+volume = {39},
+number = {6},
+pages = {360-376},
+year = {2020}
 }
 
