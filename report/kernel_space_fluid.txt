@@ -1,0 +1,7 @@
+@article{Zhu:2013:FSK,
+author = {Zhu, Yufeng},
+title = {Fluid Simulation in Kernel Space},
+journal = {Unpublished manuscript},
+year = {2013},
+numpages = {8},
+}
