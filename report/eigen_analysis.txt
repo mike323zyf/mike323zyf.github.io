@@ -1,7 +1,8 @@
-@article{Zhu:2020:EAM,
-author = {Zhu, Yufeng},
-title = {Eigen Analysis of Mesh Distortion Energy Hessian},
-journal = {Unpublished manuscript},
-year = {2020},
-numpages = {9},
+@misc{Zhu:2021:ESM,
+title = {Eigen Space of Mesh Distortion Energy Hessian}, 
+author = {Yufeng Zhu},
+year = {2021},
+eprint = {2103.08141},
+archivePrefix = {arXiv},
+primaryClass = {cs.GR}
 }
