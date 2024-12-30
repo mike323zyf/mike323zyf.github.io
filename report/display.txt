@@ -1,0 +1,5 @@
+@misc{Trail:2023:CAT,
+ title={Correcting Artifacts in Tiled Display Assemblies for Artificial Reality Headsets},
+ author={Trail, Nicholas and Taylor, Byron and Zhu, Yufeng and Ouderkirk, Andrew and Lee, Heeyoon and Talati, Sharvil and Bastani, Behnam and Saarikko, Pasi},
+ year={U.S. Patent 11817022, Nov. 2023}
+ }
