@@ -1,0 +1,7 @@
+@article{Zhu:2024:BDS,
+author = {Zhu, Yufeng},
+title = {BundleFit: Display and See-Through Models for Augmented Reality Head-Mounted Displays},
+journal = {Unpublished manuscript},
+year = {2024},
+numpages = {9},
+}
