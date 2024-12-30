@@ -1,0 +1,9 @@
+@article{Chen:2023:WMS,
+ author = {Chen, Hongzhou and Duan, Hainan and Maha, Abdallah and Zhu, Yufeng and Wen, Yonggang and Saddik, Abdulmotaleb El and Cai, Wei},
+ title = {Web3 Metaverse: State-of-the-art and vision},
+ booktitle={ACM Transactions on Multimedia Computing, Communications and Applications},
+ pages={1--42},
+ year={2023},
+ volume={20},
+ issue={4}
+} 
