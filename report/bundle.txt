@@ -2,7 +2,7 @@
 title = {BundleFit: Display and See-Through Models for Augmented Reality Head-Mounted Displays}, 
 author = {Zhu, Yufeng},
 year = {2024},
-eprint = {submit/6101606},
+eprint = {2501.01382},
 archivePrefix = {arXiv},
-primaryClass = {cs.OH}
+primaryClass = {cs.GR}
 }
