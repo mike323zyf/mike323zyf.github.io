@@ -1,0 +1,7 @@
+@inproceedings{dong2025digital,
+  title={Digital twin catalog: A large-scale photorealistic 3d object digital twin dataset},
+  author={Dong, Zhao and Chen, Ka and Lv, Zhaoyang and Yu, Hong-Xing and Zhang, Yunzhi and Zhang, Cheng and Zhu, Yufeng and Tian, Stephen and Li, Zhengqin and Moffatt, Geordie and others},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={753--763},
+  year={2025}
+}
