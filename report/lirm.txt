@@ -1,0 +1,7 @@
+@inproceedings{li2025lirm,
+  title={LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields},
+  author={Li, Zhengqin and Wang, Dilin and Chen, Ka and Lv, Zhaoyang and Nguyen-Phuoc, Thu and Lee, Milim and Huang, Jia-Bin and Xiao, Lei and Zhu, Yufeng and Marshall, Carl S and others},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={505--517},
+  year={2025}
+}
