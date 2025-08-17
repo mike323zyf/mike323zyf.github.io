@@ -1,0 +1,9 @@
+@inproceedings{Lv:2025:PSR,
+author = {Lv, Zhaoyang and Monge, Maurizio and Chen, Ka and Zhu, Yufeng and Goesele, Michael and Engel, Jakob and Dong, Zhao and Newcombe, Richard},
+title = {Photoreal Scene Reconstruction from an Egocentric Device},
+year = {2025},
+booktitle = {Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers},
+articleno = {117},
+numpages = {11},
+series = {SIGGRAPH Conference Papers '25}
+}
